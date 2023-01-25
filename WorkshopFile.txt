@@ -1,17 +1,2 @@
 Enter Your Name Below:
 Xavier Velez
-
-Enter Your Grade Below:
-Junior
-
-Enter Your Major Below:
-Electrical Engineering
-
-Enter Your Name Below:
-Xavier Velez
-
-Enter Your Grade Below:
-Junior
-
-Enter Your Major Below:
-Electrical Engineering
