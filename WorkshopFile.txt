@@ -1,8 +1,8 @@
 Enter Your Name Below:
-<you name here>
+Xavier Velez
 
 Enter Your Grade Below:
-<your grade here>
+Junior
 
 Enter Your Major Below:
-<your major here>
+Electrical Engineering
