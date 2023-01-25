@@ -6,3 +6,12 @@ Junior
 
 Enter Your Major Below:
 Electrical Engineering
+
+Enter Your Name Below:
+Annie Michel
+
+Enter Your Grade Below:
+Junior
+
+Enter Your Major Below:
+Computer Science
