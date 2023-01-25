@@ -1,0 +1,8 @@
+Enter Your Name Below:
+<you name here>
+
+Enter Your Grade Below:
+<your grade here>
+
+Enter Your Major Below:
+<your major here>
